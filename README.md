@@ -88,6 +88,13 @@ iconfont
 
 4. 顶部导航
 
+5. 焦点轮播图
+参考文档：https://react-swipeable-views.com/
+  安装依赖
+      npm install --save react-swipeable-views
+      npm install --save react-swipeable-views-utils
+    指示器需要单独实现
+       npm install --save classnames
 
 
 
