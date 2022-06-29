@@ -1,9 +1,10 @@
 import React from 'react';
+import HeaderNav from '../../component/HeaderNav'
 
 const Home =()=>{
     return (
-        <div>
-            Home
+        <div>  
+            <HeaderNav/>
         </div>
     )
 
