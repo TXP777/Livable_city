@@ -77,4 +77,11 @@ utils
 1. 初始化css文件
 2. 引入字体图标库：iconfont
 
+## 首页展示
+1. 创建页面：Home/User/Shop/LifeService
+2. 创建路由 
+       安装依赖 npm install --save react-router-dom
+       配置AppRouter
+
+
 
