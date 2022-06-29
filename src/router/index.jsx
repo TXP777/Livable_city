@@ -5,11 +5,14 @@ import User from '../pages/User'
 import LifeService from '../pages/LifeService'
 import Shop from '../pages/Shop'
 
+import BottomNav from '../component/BottomNav'
+
 
 
 const AppRouter =()=>{
     return (
       <Router>
+        <BottomNav/>
         <Routes>
               <Route path='/' element={<Home/>}></Route>
               <Route path='/user' element={<User/>}></Route>

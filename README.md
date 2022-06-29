@@ -83,5 +83,8 @@ utils
        安装依赖 npm install --save react-router-dom
        配置AppRouter
 
+3. 底部导航（页面的公共组件）
+
+
 
 
