@@ -96,6 +96,12 @@ iconfont
     指示器需要单独实现
        npm install --save classnames
 
+6. 搭建服务器环境提供数据
+   安装依赖
+     npm install --save express
+     npm install --save cors
+     跨域用cors后台解决
+     数据来源于json文件
 
 
 
